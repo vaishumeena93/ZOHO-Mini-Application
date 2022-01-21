@@ -1,3 +1,9 @@
+//Admin Id: Meena ; Password: 54321
+//U_Name = name;
+//U_Password = password;
+//U_Id = id;
+
+
 import java.util.*;
 public class railway {
     static Scanner sc = new Scanner(System.in);
