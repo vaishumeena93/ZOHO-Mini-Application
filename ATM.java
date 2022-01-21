@@ -1,3 +1,10 @@
+//adminName:Admin ; adminPassword:54321
+//UserName:Meena ; Password:14
+//        :Moulik ; 16
+//        :Monika ; 18
+//        :Maha   ; 20
+           
+
 import java.util.Scanner;
 
 class userdetails {
@@ -214,9 +221,9 @@ public class ATM {
 
     public static void main(String[] args) {
         u[0] = new userdetails("Meena",14,52300,"U1014");
-        u[1] = new userdetails("Moulik",24,72300,"U1024");
-        u[2] = new userdetails("Monika",77,62300,"U1077");
-        u[3] = new userdetails("Maha",92,42300,"U1092");
+        u[1] = new userdetails("Moulik",16,72300,"U1024");
+        u[2] = new userdetails("Monika",18,62300,"U1077");
+        u[3] = new userdetails("Maha",20,42300,"U1092");
         int ch = 0;
         do {
             System.out.println("Welcome");
